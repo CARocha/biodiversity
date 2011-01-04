@@ -1,0 +1,2 @@
+class SociosController < ApplicationController
+end

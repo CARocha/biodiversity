@@ -1,0 +1,2 @@
+module ClimasHelper
+end
