@@ -1,0 +1,2 @@
+class PaisController < ApplicationController
+end

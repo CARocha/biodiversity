@@ -1,0 +1,2 @@
+class UnidadProductosController < ApplicationController
+end
