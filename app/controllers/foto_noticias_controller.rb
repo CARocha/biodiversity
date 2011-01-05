@@ -1,2 +1,0 @@
-class FotoNoticiasController < ApplicationController
-end
