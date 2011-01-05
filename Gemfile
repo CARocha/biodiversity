@@ -29,3 +29,6 @@ gem 'mysql2'
 # group :development, :test do
 #   gem 'webrat'
 # end
+#
+gem 'devise'
+gem 'rails_admin', :git => 'git://github.com/sferik/rails_admin.git'
